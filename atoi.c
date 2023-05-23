@@ -1,6 +1,3 @@
-atoi.c
-
-
 #include "shell.h"
 
 /**
@@ -75,4 +72,3 @@ int _atoi(char *s)
 
 	return (output);
 }
-
